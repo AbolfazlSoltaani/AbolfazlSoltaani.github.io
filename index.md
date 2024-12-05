@@ -22,3 +22,5 @@ When I’m not immersed in research, I enjoy playing video games and staying act
 - **[Sep. 2019]** Earned a national gold medal in the Olympiad in Informatics.
 - **[May. 2019]** Won a silver medal at the Asia-Pacific Informatics Olympiad (APIO).
 - **[Sep. 2018]** Secured a national silver medal in the Olympiad in Informatics.
+
+{% include_relative _includes/projects.md %}

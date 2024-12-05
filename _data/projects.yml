@@ -1,0 +1,7 @@
+main:
+
+  - title: Auction Bot for Telegram
+    image: ./assets/img/auction-bot.png
+    github: https://github.com/AbolfazlSoltaani/AuctionTelegramBot
+    skills: Golang, Docker
+    description: A Telegram bot written in Golang to simulate various auction types, developed during my role as a teaching assistant for a Game Theory course. The bot was designed to help students explore auction mechanisms and bidding strategies through interactive, real-world scenarios.
