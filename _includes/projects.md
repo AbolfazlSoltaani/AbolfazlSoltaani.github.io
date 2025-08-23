@@ -19,7 +19,7 @@
       </div>
     <div class="links">
       {% if link.github %} 
-      <a href="{{ link.github }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="{{ link.github }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">GitHub</a>
       {% endif %}
       {% if link.others %} 
       {{ link.others }}
