@@ -1,0 +1,28 @@
+main:
+
+  - year: 2022
+    title: 50th Place, ICPC World Finals
+
+  - year: 2020
+    icon: 🥇
+    title: 1st Place, ICPC West Asia Regional Contest
+
+  - year: 2020
+    icon: 🥈
+    title: Silver Medal, International Olympiad in Informatics (IOI)
+
+  - year: 2020
+    icon: 🥇
+    title: Gold Medal, Asia-Pacific Informatics Olympiad (APIO)
+
+  - year: 2019
+    icon: 🥇
+    title: National Gold Medal, Iranian National Olympiad in Informatics
+
+  - year: 2019
+    icon: 🥈
+    title: Silver Medal, Asia-Pacific Informatics Olympiad (APIO)
+
+  - year: 2018
+    icon: 🥈
+    title: National Silver Medal, Iranian National Olympiad in Informatics
